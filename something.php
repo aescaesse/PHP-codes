@@ -1,1 +1,2 @@
-lit. nothin
+<?php
+?>
